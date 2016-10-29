@@ -1,0 +1,15 @@
+<proxyServerConfig>
+    <defaultServer>localhost</defaultServer>
+    <defaultPort>110</defaultPort>
+
+    <user>
+        <username>marco</username>
+        <server>localhost</server>
+        <port>110</port>
+    </user>
+    <user>
+        <username>gibarsin</username>
+        <server>localhost</server>
+        <port>110</port>
+    </user>
+</proxyServerConfig>
